@@ -1,0 +1,96 @@
+﻿__NOTOC__
+
+{| style="border-style: solid; border-width: 5px; width: 100%;" class="wikitable"
+|-
+| style="vertical-align:top; text-align:left; width: 50%;" |
+<h2 style="color: grey;">&#x1f4bc;  Mission statement</h2><p>
+
+
+<center>
+:''Lanterns show a way, yet with the light,''
+:''thus grows the dark fuzzy edge of night''
+</center>
+
+
+*This wiki functions as a system for organizing my projects, presenting relevant data in an easy to navigate format. 
+*It is meant to provide an efficient means of organizing my goals, to facilitate more expedient progress toward them. 
+*Effort is put into securing the validity of my suspicions, attempting not to make assumptions while investigating all possibilities.
+*Nonetheless this information should not be taken for granted, it may not be entirely correct.</p>
+| style="vertical-align:top; text-align:left; width: 50%;" |
+<h2 style="color: grey;">&#x1f4d1;  Filing system</h2><p>
+
+
+I've organized the information into several types of files, each of which plays a unique role in presenting useful information into a well ordered and logical format;
+
+
+*<b>Categories</b>; Organize the files under headings of mutually relevant subjects.
+**<b>Overviews</b>; Compile data on a subject into graphs/charts/tables for easy navigation
+***<b>Components</b>; Delve into the finer details of individual subjects within a category
+****<b>Page</b>; Defines the components purpose and context within the portfolio
+****<b>Discussion</b>; Mediates a forum for developing new additions to the page
+
+
+<center>(The last two are connected by a component and can be toggled in the upper left)</center>
+</p>
+
+
+|}
+
+
+{| style="border-style: solid; border-width: 5px; width: 100%;" class="wikitable"
+|-
+| style="vertical-align:top; text-align:left; width: 50%;" |
+<h2 style="color: grey;">&#x1f4c5;  [[Agenda]]</h2><p>
+<h3>[[Timeline]]</h3>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+
+
+<h3>[[Regimen]]</h3>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+
+
+<h2 style="color: grey;">&#x1f4a1;  [[Projects]]</h2>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+</p>
+
+
+| style="vertical-align:top; text-align:left; width: 50%;" |
+
+<h2 style="color: grey;">&#x1f4b0;  [[Listings]]</h2><p>
+<h3>[[Made]]</h3>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+
+
+<h3>[[Unused]]</h3>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+
+
+<h2 style="color: grey;">&#x1f4cb;  [[Inventory]]</h2>
+
+[[Overview 1]] ⋅ [[Overview 2]] ⋅ [[Overview 3]] ⋅ [[Overview 4]] ⋅ [[Overview 5]] ⋅ [[Overview 6]] ⋅ [[Overview 7]] ⋅ [[Overview 8]] ⋅ [[Overview 9]] ⋅ [[Overview 10]] ⋅ [[Overview 11]] ⋅ [[Overview 12]] ⋅ [[Overview 13]] ⋅ [[Overview 14]] ⋅ [[Overview 15]] ⋅ [[Overview 16]] ⋅ [[Overview 17]] ⋅ [[Overview 18]] ⋅ [[Overview 19]] ⋅ [[Overview 20]] ⋅ [[Overview 21]]
+</p>
+
+
+|}
+
+
+{| style="border-style: solid; border-width: 5px; width: 100%;" class="wikitable"
+|-
+| style="vertical-align:top; text-align:left; width: 50%;" |
+<h2 style="color: grey;">&#x1f4f0;  Every change</h2><p>
+{{Special:RecentChanges/}}
+
+</p>
+| style="vertical-align:top; text-align:left; width: 50%;" |
+<h2 style="color: grey;">&#x1f4dc;  Every article</h2><p>
+{{Special:AllPages/}}
+
+</p>
+
+
+|}
